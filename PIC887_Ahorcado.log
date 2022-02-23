@@ -1,0 +1,17 @@
+0	1	mikroCPIC1618.exe -MSF -DBG -pP16F887 -RA -DL -O11111114 -fo20 -N"E:\trabajo\2022\PIC_Ahorcado\PIC887_Ahorcado.mcppi" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Defs\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Uses\P16\" -SP"E:\trabajo\2022\PIC_Ahorcado\" -IP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Uses\P16\" "PIC887_Ahorcado.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl" "__Lib_CString.mcl" "__Lib_Conversions.mcl" "__Lib_Keypad4x4.mcl" "__Lib_GlcdFonts.mcl" "__Lib_Glcd.mcl" "__Lib_LcdConsts.mcl" "__Lib_Lcd.mcl"	 
+hint: 0	1139	Available RAM: 352 [bytes], Available ROM: 8192 [bytes]	 
+diagnostics: 0	122	Compilation Started	P16F887.c
+diagnostics: 967	123	Compiled Successfully	P16F887.c
+diagnostics: 0	122	Compilation Started	__Lib_Delays.c
+diagnostics: 123	123	Compiled Successfully	__Lib_Delays.c
+diagnostics: 0	122	Compilation Started	__Lib_GlcdFonts.c
+diagnostics: 1207	123	Compiled Successfully	__Lib_GlcdFonts.c
+diagnostics: 0	122	Compilation Started	PIC887_Ahorcado.c
+diagnostics: 392	123	Compiled Successfully	PIC887_Ahorcado.c
+diagnostics: 0	127	All files Compiled in 62 ms	 
+hint: 0	1144	Used RAM (bytes): 208 (59%)  Free RAM (bytes): 144 (41%)	Used RAM (bytes): 208 (59%)  Free RAM (bytes): 144 (41%)
+hint: 0	1144	Used ROM (program words): 4217 (51%)  Free ROM (program words): 3975 (49%)	Used ROM (program words): 4217 (51%)  Free ROM (program words): 3975 (49%)
+diagnostics: 0	125	Project Linked Successfully	PIC887_Ahorcado.mcppi
+diagnostics: 0	128	Linked in 47 ms	 
+diagnostics: 0	129	Project 'PIC887_Ahorcado.mcppi' completed: 344 ms	 
+diagnostics: 0	103	Finished successfully: 12 feb. 2022, 15:04:07	PIC887_Ahorcado.mcppi
